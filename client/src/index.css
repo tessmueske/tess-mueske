@@ -9,18 +9,29 @@ h1 {
   font-family: "Rock 3D", system-ui;
   font-weight: 400;
   font-style: normal;
+  font-size: 48px;
 }
 
 p {
   font-family: "Benne", serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 23px;
+  max-width: 800px;         
 }
 
 a {
   font-family: "Benne", serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 24px;
+}
+
+h2 {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: italic;
+  max-width: 1000px; 
 }
 
 body {
@@ -43,7 +54,6 @@ body {
   align-items: center;       
   height: 100vh;        
   text-align: center;
-  max-width: 800px;         
   margin: auto;           
   padding: 0 20px;         
 }
