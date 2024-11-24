@@ -13,6 +13,10 @@ function Home(){
           <br></br>
           <Link to="/resume">resume (CV)</Link>
           <br></br>
+          <a href="https://dev.to/tessmueske" target="_blank" rel="noopener noreferrer">
+                my blog
+            </a>
+            <br></br>
           <Link to="/contact">contact</Link>
         </div>
       );
