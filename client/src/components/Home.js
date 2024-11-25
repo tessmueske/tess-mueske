@@ -17,6 +17,9 @@ function Home(){
                 my blog
             </a>
             <br></br>
+            <a href="https://github.com/tessmueske" target="_blank" rel="noopener noreferrer">
+                my github
+            </a>
           <Link to="/contact">contact</Link>
         </div>
       );
