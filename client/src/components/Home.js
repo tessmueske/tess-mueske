@@ -20,6 +20,7 @@ function Home(){
             <a href="https://github.com/tessmueske" target="_blank" rel="noopener noreferrer">
                 my github
             </a>
+            <br></br>
           <Link to="/contact">contact</Link>
         </div>
       );
