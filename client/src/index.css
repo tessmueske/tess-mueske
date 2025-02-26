@@ -79,3 +79,11 @@ body {
   padding: 50px 20px 100px; 
   margin-bottom: 200px;
 }
+
+.links-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+} 
