@@ -20,7 +20,7 @@ function Projects(){
                 check out a video walk-through here.
             </a>
             <br></br>
-            <Link to="/">home</Link>
+            <Link to="/" className="button-link">home</Link>
         </div>
     )
 }
