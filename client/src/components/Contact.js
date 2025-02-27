@@ -16,8 +16,10 @@ function Contact(){
                     
                     <div className="contact-method">
                         <h2>phone</h2>
-                        <p>Spain: <a href="tel:+34663357874" className="contact-link">+34 663 357 874</a></p>
-                        <p>USA: <a href="tel:+16129617734" className="contact-link">+1 612-961-7734</a></p>
+                        <div className="phone-links">
+                            <a href="tel:+34663357874" className="contact-link">Spain: +34 663 357 874</a>
+                            <a href="tel:+16129617734" className="contact-link">USA: +1 612-961-7734</a>
+                        </div>
                     </div>
                 </div>
             </div>
