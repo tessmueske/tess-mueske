@@ -37,7 +37,7 @@ function About() {
 
             <div className="about-card">
                 <h2>currently...</h2>
-                <p>i'm a full-stack developer, learning spanish and drinking wine in madrid. i'm seeking a full-time software development role in madrid, new york city, or other major world cities.</p>
+                <p>i'm a full-stack developer, learning spanish and drinking wine in madrid. i'm seeking a full-time software development role in madrid, new york, or other major world cities.</p>
                 <p>
                     i'm a woman, a lesbian, a full-stack coder, a spanish-speaker, a world traveler (28 countries and counting), and a fan of body modifications, indie rock, and halloween. i believe in using tech to make the world better. <a href="https://www.linkedin.com/in/tess-mueske/" target="_blank" rel="noopener noreferrer">take a look at my linkedin here.</a>
                 </p>

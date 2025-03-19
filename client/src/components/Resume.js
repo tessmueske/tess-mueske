@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import resume from "../Spain.pdf"
+import resume from "../Tess_Mueske_Resume copy.pdf"
 
 function Resume(){
     return (
