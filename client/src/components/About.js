@@ -21,12 +21,13 @@ function About() {
                     alt="tess, a long-haired white woman, wearing a pink dress and smiling at the camera, holding a glass of red wine."
                 />
                 <p className="intro">
-                    hi, i'm tess mueske! i'm a twenty-something from minnesota, currently located in madrid. i'm currently a full-stack developer intern with Ama Earth Group, a climate tech startup. i'm building out our new website as we launch our first AI-powered product. 
+                    hi, i'm tess mueske! i'm a twenty-something from minnesota, currently located in madrid. 
                 </p>
             </div>
 
             <div className="about-card">
                 <h2>background</h2>
+                <p>in march 2025 i wrapped up my internship with Ama Earth Group, a climate tech startup. i built out our new website as we launched our first AI-powered product. </p>
                 <p>
                     i have a bachelor of arts from the university of minnesota - twin cities, where i studied individualized studies and specialized in religious studies; gender, women, and sexuality studies; and human health and wellness. i used to live in los angeles, and while i was there, i became a certified postpartum doula. i worked as a professional matchmaker for three years, and i was the lead singer of a band called <a href="https://open.spotify.com/artist/6dis94dcZj1eQMA0ZaUxNP?si=vTRXWGqnTkmnPoD7JsI-tQ" target="_blank" rel="noopener noreferrer">girlfriend on the moon</a>.
                 </p>
