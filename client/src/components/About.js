@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import photo from "../photo.jpg"
+import photo from "../IMG_8700.jpg"
 
 function About() {
     const profPhoto = {
@@ -18,7 +18,7 @@ function About() {
                 <img
                     style={profPhoto}
                     src={photo}
-                    alt="tess, a long-haired white woman, wearing a pink dress and smiling at the camera, holding a glass of red wine."
+                    alt="tess, a white woman with long black braids, wearing a brown sweater and white pants, smiling on a boat."
                 />
                 <p className="intro">
                     hi, i'm tess mueske! i'm a twenty-something from minnesota, currently located in madrid. 
@@ -38,7 +38,7 @@ function About() {
 
             <div className="about-card">
                 <h2>currently...</h2>
-                <p>i'm a full-stack developer, learning spanish and drinking wine in madrid. i'm seeking a full-time software development role in madrid, new york, or other major world cities.</p>
+                <p>i'm a full-stack developer, learning spanish and eating tapas in madrid. i'm seeking a full-time software development role in madrid, new york, or other major world cities.</p>
                 <p>
                     i'm a woman, a lesbian, a full-stack coder, a spanish-speaker, a world traveler (28 countries and counting), and a fan of body modifications, indie rock, and halloween. i believe in using tech to make the world better. <a href="https://www.linkedin.com/in/tess-mueske/" target="_blank" rel="noopener noreferrer">take a look at my linkedin here.</a>
                 </p>

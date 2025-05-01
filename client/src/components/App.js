@@ -29,7 +29,7 @@ function App() {
             <Contact />
           </Route>
           <Route path="*">
-            <div>404 Page Not Found</div>
+            <div>404 Page Not Found - sorry!</div>
           </Route>
         </Switch>
       </Router>
